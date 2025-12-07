@@ -1,0 +1,55 @@
+Title: Employee Exit Policy
+
+1. Purpose
+The purpose of this policy is to provide a standardized and transparent process for managing employee exits, ensuring business continuity, protection of company assets, and a respectful experience for departing employees.
+
+2. Scope
+This policy applies to all permanent, temporary, and contract employees of Company XYZ whose employment ends through resignation, retirement, contract completion, layoff, or termination.
+
+3. Types of Separation
+- Voluntary Exit: Initiated by the employee, such as resignation or retirement.
+- Involuntary Exit: Initiated by the company, including performance‑based termination, redundancy, or misconduct.
+
+4. Notice Period
+- Standard notice periods are defined in employment contracts or local labor law.
+- Employees are expected to submit resignation in writing via the designated HR system or email.
+- Management may waive or adjust the notice period based on business needs and applicable regulations.
+
+5. Exit Process Overview
+- Initiation: HR receives and acknowledges the exit request or notifies the employee in case of involuntary exit.
+- Planning: Manager and HR agree on last working day, knowledge transfer activities, and handover owners.
+- Execution: The employee completes handover tasks, returns company assets, and participates in the exit interview.
+- Closure: HR processes final settlement, updates records, and revokes system access.
+
+6. Handover and Knowledge Transfer
+- The departing employee must document ongoing work, critical processes, and key contacts.
+- A successor or designated colleague must be identified to receive the handover.
+- The manager is responsible for verifying that critical tasks and information have been transferred.
+
+7. Return of Company Assets
+- Before the last working day, the employee must return all company property, including laptops, ID cards, access tokens, phones, and documents.
+- The IT and Facilities teams must confirm that returned assets are in acceptable condition and update the asset register.
+- Any unreturned or damaged assets may be subject to recovery as permitted by law and company policy.
+
+8. Access Revocation and Data Security
+- IT must revoke logical access (accounts, VPN, email, applications) on or immediately after the last working day.
+- Shared credentials must be changed where applicable.
+- Personal data belonging to the employee will be handled in line with privacy and retention policies.
+
+9. Exit Interview
+- HR should offer an exit interview to understand reasons for leaving and gather feedback on the work environment, leadership, and processes.
+- Feedback may be summarized and shared in anonymized form with management for improvement actions.
+
+10. Final Settlement
+- HR and Payroll will ensure timely settlement of outstanding salary, benefits, incentives, and reimbursable expenses, aligned with local law.
+- Deductions related to advances, loans, or unreturned assets must be clearly documented and communicated to the employee.
+- Relieving letters and experience certificates will be issued in accordance with company standards.
+
+11. Confidentiality and Post‑Exit Obligations
+- Employees remain bound by confidentiality, data protection, and non‑disclosure clauses after exit, as per their contracts.
+- Any non‑compete or non‑solicitation obligations must be clearly communicated during the exit process.
+
+12. Policy Compliance
+- Managers, HR, and employees are responsible for following this policy and related procedures.
+- Deviations must be approved by HR and documented.
+- This policy will be reviewed at least annually and updated to reflect changes in business, law, or best practices.

@@ -1,0 +1,6 @@
+python-telegram-bot==21.8
+sentence-transformers==3.0.1
+torch
+sqlite-vec
+python-dotenv
+requests

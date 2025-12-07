@@ -1,0 +1,53 @@
+Title: Information Security Policy
+
+1. Purpose
+The purpose of this policy is to protect the confidentiality, integrity, and availability of Company XYZ’s information assets from threats such as unauthorized access, misuse, disclosure, alteration, and destruction.
+
+2. Scope
+This policy applies to all employees, contractors, interns, third‑party vendors, and any other individuals who access Company XYZ information, systems, or facilities, regardless of location.
+
+3. Information Security Objectives
+Company XYZ will:
+- Ensure that only authorized individuals have access to information and systems.
+- Maintain the accuracy and completeness of information and system configurations.
+- Ensure that information and systems are available to authorized users when needed.
+
+4. Roles and Responsibilities
+- Management is responsible for providing direction, resources, and support for information security.
+- The Information Security team defines controls, monitors compliance, and manages security incidents.
+- Employees and contractors must follow this policy, complete security training, and promptly report suspected security issues.
+
+5. Data Classification
+All information must be classified into one of the following categories:
+- Public: Information that may be disclosed outside the organization without risk.
+- Internal: Information intended for employees and trusted partners, not for public release.
+- Confidential: Sensitive information whose unauthorized disclosure could cause harm to the organization, customers, or employees.
+
+6. Access Control
+- User access must follow the principle of least privilege.
+- Unique user IDs are required for individual accountability.
+- Access rights must be approved, documented, and reviewed periodically.
+- Accounts must be disabled promptly upon role change or termination.
+
+7. Acceptable Use
+- Company systems and networks must be used primarily for business purposes.
+- Users must not install unauthorized software, bypass security controls, or share passwords.
+- Downloading, storing, or transmitting illegal content is strictly prohibited.
+
+8. Network and System Security
+- Endpoints must use up‑to‑date anti‑malware software and security patches.
+- Administrative access must use strong authentication and secure channels.
+- Remote access must be protected by VPN or other approved secure methods.
+
+9. Incident Management
+- All suspected or actual security incidents must be reported immediately to the Information Security team via the designated channel.
+- The Information Security team will investigate, contain, eradicate, and coordinate recovery steps.
+- Lessons learned will be documented and used to improve controls.
+
+10. Training and Awareness
+- All users must complete information security awareness training at onboarding and at least annually.
+- Additional role‑based training will be provided for high‑risk roles such as administrators and developers.
+
+11. Policy Compliance
+- Violations of this policy may result in disciplinary action, up to and including termination of employment, contract cancellation, or legal action.
+- This policy will be reviewed at least annually or when significant changes occur in the business, technology, or regulatory environment.

@@ -1,0 +1,51 @@
+Title: Asset Management Policy
+
+1. Purpose
+The purpose of this policy is to ensure that all Company XYZ information assets, including hardware, software, data, and related services, are identified, recorded, protected, and managed throughout their lifecycle.
+
+2. Scope
+This policy applies to all information assets owned, leased, or otherwise managed by Company XYZ, and to all employees, contractors, and third‑party service providers who use or manage these assets.
+
+3. Definitions
+- Asset: Any item of value to the organization, such as laptops, servers, network devices, applications, licenses, and data.
+- Asset Owner: The individual or role responsible for the lifecycle, protection, and proper use of a specific asset.
+
+4. Asset Inventory
+- An up‑to‑date inventory of all critical information assets must be maintained in a centralized register.
+- The inventory must record at least: asset ID, description, owner, location, classification, and lifecycle status.
+- New assets must be added to the inventory as part of the procurement or onboarding process.
+
+5. Ownership and Responsibilities
+- Each asset must have an assigned owner who is accountable for its classification, appropriate use, and periodic review.
+- Asset owners must ensure that controls aligned with the asset’s classification are implemented and monitored.
+- Users are responsible for protecting assets entrusted to them and reporting loss, damage, or theft immediately.
+
+6. Asset Classification
+- Assets must be classified according to their business value, sensitivity, and criticality.
+- At a minimum, the following levels are used: Public, Internal, and Confidential.
+- Classification determines the required security controls, such as encryption, access restrictions, and backup frequency.
+
+7. Acceptable Use of Assets
+- Assets must be used only for authorized business purposes unless explicitly permitted by management.
+- Users must not modify asset configurations in ways that bypass security controls.
+- Company software licenses must be used in accordance with vendor terms, and unauthorized software installations are prohibited.
+
+8. Asset Lifecycle Management
+- Acquisition: All new assets must follow approved procurement and security review processes.
+- Deployment: Configuration standards must be applied before assets are placed into production.
+- Maintenance: Assets must receive regular updates, patches, and health checks.
+- Transfer: Movement of assets between users or locations must be recorded in the asset register.
+- Disposal: Assets must be securely wiped or destroyed at end of life, with records retained for audit purposes.
+
+9. Physical Security of Assets
+- Portable devices (such as laptops and mobile phones) must be stored securely when unattended.
+- Access to server rooms and network equipment must be restricted to authorized personnel only.
+- Visitors must be escorted in restricted areas where critical assets are located.
+
+10. Monitoring and Audit
+- Periodic audits will be conducted to verify the accuracy of the asset register and compliance with this policy.
+- Discrepancies must be investigated, and corrective actions documented.
+
+11. Policy Compliance
+- Non‑compliance with this policy may result in disciplinary action and, where applicable, legal consequences.
+- This policy will be reviewed at least annually or whenever there are significant changes to the organization’s asset landscape.
