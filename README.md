@@ -15,8 +15,8 @@ LLM: OpenAI GPT.
 - Put your .md or .txt docs into data/. 
 - Set environment variables in .env:
 - TELEGRAM_BOT_TOKEN=...
-- LLM_BACKEND=ollama or openai
-- OPENAI_API_KEY=... if using OpenAI.
+- LLM_BACKEND=openai
+- OPENAI_API_KEY=...
 - Start bot: python app.py.
 
 1. One time setup:
@@ -63,9 +63,10 @@ Flow: bot --> embed your question --> retrieve the most relevant chunks via sqli
 Textual architecture explanation:
 Telegram user → Bot → /ask → RAG: embed query → sqlite-vec search → context + prompt → LLM → answer back to user.​
 
-# Screenshots
+# Example Screenshots
 
-Images for below are included in docs/screenshots/
+Images for below are included in output/
 1. /start welcome
 2. /ask with successful RAG answer
 
+![alt text](mini-rag-bot-test1.jpeg)

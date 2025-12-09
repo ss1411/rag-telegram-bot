@@ -4,3 +4,4 @@ torch
 sqlite-vec
 python-dotenv
 requests
+openai

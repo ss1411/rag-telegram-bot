@@ -15,6 +15,7 @@ class MiniRAG:
         self.model = SentenceTransformer("sentence-transformers/all-MiniLM-L6-v2")
         os.makedirs(os.path.dirname(SQLITE_DB_PATH), exist_ok=True)
         self.conn = sqlite3.connect(SQLITE_DB_PATH)
+        self.conn.enable_load_extension(True)
         load_vec(self.conn)
         self._init_tables()
         self._maybe_ingest()
@@ -135,18 +136,19 @@ class MiniRAG:
     def call_llm(self, prompt: str) -> str:
         if LLM_BACKEND == "openai":
             # simple example using OpenAI’s Chat Completions
-            import openai
+            from openai import OpenAI
 
-            openai.api_key = OPENAI_API_KEY
-            chat = openai.ChatCompletion.create(
+            self.openai_client = OpenAI(api_key=OPENAI_API_KEY)
+            response = self.openai_client.responses.create(
                 model=OPENAI_MODEL,
-                messages=[
-                    {"role": "system", "content": "You are a helpful assistant."},
+                input=[
+                    {"role": "system", "content": "You are a helpful RAG assistant."},
                     {"role": "user", "content": prompt},
                 ],
-                max_tokens=256,
+                temperature=0.1
             )
-            return chat.choices[0].message["content"].strip()
+            model_response = response.output[0].content[0].text
+            return model_response
         else:
             return "LLM backend not configured."
 

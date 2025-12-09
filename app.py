@@ -1,5 +1,5 @@
 import logging
-from telegram import Update  # [web:3]
+from telegram import Update
 from telegram.ext import (
     ApplicationBuilder,
     CommandHandler,
