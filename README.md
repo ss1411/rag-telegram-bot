@@ -68,5 +68,3 @@ Telegram user → Bot → /ask → RAG: embed query → sqlite-vec search → co
 Images for below are included in output/
 1. /start welcome
 2. /ask with successful RAG answer
-
-![alt text](mini-rag-bot-test1.jpeg)
